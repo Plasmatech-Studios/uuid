@@ -6,7 +6,7 @@ A simple CLI tool that generates a v4 UUID, prints it to the console, and automa
 
 ## 📋 Prerequisites
 
-- Go 1.18+ installed  
+- Go 1.23.4+ installed  
 - A `/usr/local/bin/` directory (or equivalent) in your PATH
 
 ---

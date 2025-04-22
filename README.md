@@ -1,4 +1,3 @@
-```markdown
 # uuid
 
 A simple CLI tool that generates a v4 UUID, prints it to the console, and automatically copies it to your clipboard.
@@ -68,7 +67,7 @@ PRs, stars ❤️, and issues are all welcome!
 ## 📜 License
 
 This project is licensed under the MIT License.  
-```
 
 See [LICENSE](LICENSE) for details.
 ---
+

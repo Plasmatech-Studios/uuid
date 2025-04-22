@@ -60,7 +60,7 @@ uuid
 
 ## 🤝 Contributing
 
-PRs, stars ❤️, and issues are all welcome!
+PRs, stars ⭐, and issues are all welcome!
 
 ---
 
